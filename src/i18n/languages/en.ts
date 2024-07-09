@@ -2,37 +2,37 @@ import Key from '../i18nKey'
 import type { Translation } from '../translation'
 
 export const en: Translation = {
-  [Key.home]: 'Home',
-  [Key.about]: 'About',
-  [Key.archive]: 'Archive',
-  [Key.search]: 'Search',
+  [Key.home]: 'Ana Sayfa',
+  [Key.about]: 'Hakkinda',
+  [Key.archive]: 'Depo',
+  [Key.search]: 'Arama',
 
-  [Key.tags]: 'Tags',
-  [Key.categories]: 'Categories',
-  [Key.recentPosts]: 'Recent Posts',
+  [Key.tags]: 'Etiketler',
+  [Key.categories]: 'Kategoriler',
+  [Key.recentPosts]: 'En son gönderiler',
 
-  [Key.comments]: 'Comments',
+  [Key.comments]: 'Yorumlar',
 
-  [Key.untitled]: 'Untitled',
-  [Key.uncategorized]: 'Uncategorized',
+  [Key.untitled]: 'İsimsiz',
+  [Key.uncategorized]: 'Kategorisiz',
   [Key.noTags]: 'No Tags',
 
-  [Key.wordCount]: 'word',
-  [Key.wordsCount]: 'words',
-  [Key.minuteCount]: 'minute',
-  [Key.minutesCount]: 'minutes',
-  [Key.postCount]: 'post',
-  [Key.postsCount]: 'posts',
+  [Key.wordCount]: 'kelime',
+  [Key.wordsCount]: 'kelimeler',
+  [Key.minuteCount]: 'dakika',
+  [Key.minutesCount]: 'dakika',
+  [Key.postCount]: 'gönderi',
+  [Key.postsCount]: 'gönderi',
 
-  [Key.themeColor]: 'Theme Color',
+  [Key.themeColor]: 'Tema Rengi',
 
-  [Key.lightMode]: 'Light',
-  [Key.darkMode]: 'Dark',
-  [Key.systemMode]: 'System',
+  [Key.lightMode]: 'Aydınlık',
+  [Key.darkMode]: 'Karanlık',
+  [Key.systemMode]: 'Sistem',
 
-  [Key.more]: 'More',
+  [Key.more]: 'Daha Fazla',
 
-  [Key.author]: 'Author',
+  [Key.author]: 'Yazar',
   [Key.publishedAt]: 'Published at',
-  [Key.license]: 'License',
+  [Key.license]: 'Lisans',
 }
