@@ -5,5 +5,5 @@ description:
 tags: [Video]
 draft: false
 ---
-##Youtube
-<iframe width="100%" height="468" src="https://www.youtube.com/watch?v=0Gkhol2Q1og" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Gkhol2Q1og?si=bsXc7Ylec2ycA1BL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
