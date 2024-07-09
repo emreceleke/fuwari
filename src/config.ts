@@ -7,7 +7,7 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'EMRECELEKE',
+  title: 'emreceleke',
   subtitle: '',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja'
   themeColor: {
@@ -55,7 +55,7 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'Discord',
-      icon: 'fa6-brands:github',
+      icon: 'fa6-brands:discord',
       url: 'https://discord.com/users/208030342794182658',
     },
   ],
