@@ -42,7 +42,7 @@ export const profileConfig: ProfileConfig = {
   bio: 'Paylaşımcı, yardımcı, sikici ve sokucu.',
   links: [
     {
-      name: 'X',
+      name: 'Twitter',
       icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
                                         // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
@@ -57,6 +57,11 @@ export const profileConfig: ProfileConfig = {
       name: 'Discord',
       icon: 'fa6-brands:discord',
       url: 'https://discord.com/users/208030342794182658',
+    },
+    {
+      name: 'YouTube',
+      icon: 'fa6-brands:youtube',
+      url: 'https://www.youtube.com/channel/UCJPT52VyabnmHIxPkkBl4ig',
     },
   ],
 }
