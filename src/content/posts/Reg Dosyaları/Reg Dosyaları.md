@@ -7,7 +7,6 @@ category: Regedit
 draft: false
 ---
 
-https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2Femreceleke%2Ffuwari%2Fblob%2Fmain%2FRegs%2FDisable_AI_Recall.reg
 
 
 | Dosya     | Açıklama                                                                                                                                                                                                 |
