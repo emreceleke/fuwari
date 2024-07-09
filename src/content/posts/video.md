@@ -1,7 +1,7 @@
 ---
 title: İlk içerik. Güzel bir başlangıç.
 published: 2024-07-09
-description: X
+description: Açılışı Daft Punk - Touch ile yapıyoruz. 🤖
 tags: [Video]
 draft: false
 ---
