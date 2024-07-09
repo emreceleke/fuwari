@@ -8,19 +8,6 @@ category: 'Examples'
 draft: false 
 ---
 
-## GitHub repository cards
-You can add dynamic cards that link to GitHub repositories, on page load, the repository information is pulled from the GitHub API. 
-
-::github{repo="Fabrizz/MMM-OnSpotify"}
-
-Create a GitHub repository card with the code `::github{repo="<owner>/<repo>"}`.
-
-```markdown
-::github{repo="saicaca/fuwari"}
-```
-[Disable_Copilot](https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2Femreceleke%2Ffuwari%2Fblob%2Fmain%2FRegs%2FDisable_Copilot.reg) Windows 10 ve 11'e eklenen AI Yardımcı Co-Pilot'u devre dışı bırakır.
-
-https://git-link.vercel.app/api/download?url=https%3A%2F%2Fgithub.com%2Femreceleke%2Ffuwari%2Fblob%2Fmain%2FRegs%2FDisable_Copilot.reg
 
 ## Admonitions
 
