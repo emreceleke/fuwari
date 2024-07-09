@@ -18,7 +18,7 @@ export const en: Translation = {
   [Key.noTags]: 'No Tags',
 
   [Key.wordCount]: 'kelime',
-  [Key.wordsCount]: 'kelimeler',
+  [Key.wordsCount]: 'kelime',
   [Key.minuteCount]: 'dakika',
   [Key.minutesCount]: 'dakika',
   [Key.postCount]: 'gönderi',
