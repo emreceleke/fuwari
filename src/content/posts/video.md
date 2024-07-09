@@ -1,6 +1,6 @@
 ---
 title: İlk içerik. Güzel bir başlangıç.
-published: Date
+published: 2024-07-09
 description: X
 tags: [Video]
 draft: false
