@@ -31,8 +31,8 @@ export const siteConfig: SiteConfig = {
 export const navBarConfig: NavBarConfig = {
   links: [
     LinkPreset.Home,
-    LinkPreset.Depo,
-    LinkPreset.Hakkinda,
+    LinkPreset.Archive,
+    LinkPreset.About,
   ],
 }
 
@@ -55,7 +55,7 @@ export const profileConfig: ProfileConfig = {
     },
     {
       name: 'Discord',
-      icon: 'fa6-brands:discord',
+      icon: 'fa6-brands:github',
       url: 'https://discord.com/users/208030342794182658',
     },
   ],
